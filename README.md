@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaan</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🔭 I’m currently working on **.NET Technology**
 - 🌱 I’m currently learning **.NET, C, Php**
 - 📫 How to reach me: [kaan.akcan@outlook.com](mailto:kaan.akcan@outlook.com)
 
